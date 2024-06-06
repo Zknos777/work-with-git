@@ -2,7 +2,7 @@ def example():
     print('Hello world')
 
 def Disco():
-    print('Detective')
+    print('Detective Harrier')
 
 
 if __name__ == '__main__':
