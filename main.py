@@ -7,7 +7,7 @@ def greet():
 
     
 def info():
-    print('doing come stuff')
+    print('doing some stuff')
 
 
 if __name__ == '__main__':
