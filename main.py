@@ -1,10 +1,11 @@
 def example():
     print('Hello world')
 
-
-def introducer():
-    print('My name is Konstantin')
+def introduce():
+    print('Hello world')
+    print('Andrey')
 
 
 if __name__ == '__main__':
-    introducer()
+    example()
+    introduce()
