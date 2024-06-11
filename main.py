@@ -3,7 +3,7 @@ def example():
 
 def Disco():
     print('Detective Harrier')
-    print('You are awful, detective')
+    print('You are terrible')
 
 
 if __name__ == '__main__':
