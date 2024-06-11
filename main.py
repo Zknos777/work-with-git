@@ -2,7 +2,7 @@ def example():
     print('Hello world')
 
 def Disco():
-    print('Detective Harrier')
+    print('Detective Harrier Debua')
     print('You are terrible')
 
 
