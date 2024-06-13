@@ -6,9 +6,29 @@ def introducer():
     print('Dratuti')
 
 
-def info():
+def info3():
     print('Текст для новой веточки')
 
 
+def a():
+    print('ab')
+
+    
+def info():
+    print('added new branch')
+
+
+def info0():
+    print('for PR')
+
+
+def info2():
+    print('added new branch')
+
+
+def info1():
+    print('add new branch')
+
+
 if __name__ == '__main__':
-    info()
+    example()
