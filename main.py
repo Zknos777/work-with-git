@@ -2,6 +2,7 @@ def example():
     print('Hello world')
 
 
+<<<<<<< HEAD
 def a():
     print('ab')
 
@@ -12,6 +13,10 @@ def info():
 
 def info2():
     print('for PR')
+
+
+def info2():
+    print('added new branch')
 
 
 if __name__ == '__main__':
