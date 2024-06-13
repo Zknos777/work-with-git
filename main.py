@@ -2,7 +2,14 @@ def example():
     print('Hello world')
 
 
-<<<<<<< HEAD
+def introducer():
+    print('Dratuti')
+
+
+def info3():
+    print('Текст для новой веточки')
+
+
 def a():
     print('ab')
 
@@ -11,7 +18,7 @@ def info():
     print('added new branch')
 
 
-def info2():
+def info0():
     print('for PR')
 
 
