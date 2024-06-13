@@ -6,5 +6,9 @@ def introducer():
     print('Dratuti')
 
 
+def info():
+    print('Текст для новой веточки')
+
+
 if __name__ == '__main__':
-    example()
+    info()
