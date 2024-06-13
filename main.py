@@ -1,12 +1,14 @@
 def example():
     print('Hello world')
 
-<<<<<<< HEAD
+
 def Disco():
     print('Detective Harrier Debua')
     print('You are terrible')
-=======
->>>>>>> tet
+
+
+def info():
+    print('added new branch')
 
 
 if __name__ == '__main__':
