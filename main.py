@@ -2,6 +2,7 @@ def example():
     print('Hello world')
 
 
+<<<<<<< HEAD
 def introducer():
     print('Dratuti')
 
@@ -36,6 +37,10 @@ def Disco():
 
 
 def info5():
+    print('added new branch')
+
+
+def info6():
     print('added new branch')
 
 
