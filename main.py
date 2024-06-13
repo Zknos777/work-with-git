@@ -30,5 +30,14 @@ def info1():
     print('add new branch')
 
 
+def Disco():
+    print('Detective Harrier Debua')
+    print('You are terrible')
+
+
+def info5():
+    print('added new branch')
+
+
 if __name__ == '__main__':
-    example()
+    Disco()
